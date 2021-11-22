@@ -36,9 +36,13 @@
   justify-content: center;
 }
 
+.door-closed:hover {
+  background-color: #775599;
+}
+
 #image-prize {
-  height: 106px;
-  width: 100px;
+  height: 84px;
+  width: 80px;
   position: absolute;
   bottom: 0px;
 }
@@ -59,4 +63,14 @@
   background-color: #553377;
   color: white;
   font-weight: 700;
+  border: solid #331177 2px;
+  border-radius: 2px;
+}
+
+.btn:active {
+  border: solid #553377 2px;
+}
+
+.btn:hover {
+  background-color: #775599;
 }

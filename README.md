@@ -5,7 +5,7 @@ We've coded up a simple 'Choose a door' game using React. To play the game, a pl
 To get this project started, run `npm install` and then `npm start`. 
 
 ## Initial Challenge
-Your first challenge is to simply understand the code that has been provided to you. You do not need to change anything right now within the prohect... just take time to go through the code, and understand how things are connected and working in this React app. Do you understand how the functionality in implemented here?
+Your first challenge is to simply understand the code that has been provided to you. You do not need to change anything right now within the project... just take time to go through the code, and understand how things are connected and working in this React app. Do you understand how the functionality in implemented here?
 
 ## Main Challenge
 This React application is written using functional components. Your task is to convert the following components into a class-based component design:
